@@ -10,7 +10,7 @@ This tool uses Open Sound Control to control GLMixer, so the application must be
 GLMixer only supports *Next* and *Previous* messages to switch sessions, which makes it a bit tedious to work with. The following setup steps are required in GLMixer **before** starting this tool:
 
 1. Select the folder containing your sessions in the *Session Swticher* view in GLMixer.
-1. Make sure the sessions in the list are sorted by filename.
+1. Make sure the sessions in the list are sorted by filename in ascending order.
 1. Start playing the topmost session.
 1. Start this tool with the same session folder.
 
